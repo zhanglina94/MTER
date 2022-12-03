@@ -7,7 +7,7 @@
 
 
 <h3 align="center">
-  <p style="text-align: center;"> <span style="font-weight: bold; font: Arial, sans-serif;"></span>METR:Multi-task Emotion Recognition Based on Context-aware Attention Module</p>
+  <p style="text-align: center;"> <span style="font-weight: bold; font: Arial, sans-serif;"></span>MTER:Multi-task Emotion Recognition Based on Context-aware Attention Module</p>
 </h3>
 
 <h3 align="center">
@@ -80,4 +80,11 @@ Learn more examples from the [UN](  ).
 
 - __D__: 
 
-## Lenci
+## City Us
+
+@article{Lina2022mter,
+  title={Multi-task Emotion Recognition Based on Context-aware Attention Module},
+  author={Lina Zhang,Dugki Min},
+  journal={arXiv preprint arXiv:},
+  year={2022}
+}
